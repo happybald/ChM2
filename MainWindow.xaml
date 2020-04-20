@@ -6,7 +6,7 @@
         xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
         xmlns:local="clr-namespace:ChM2"
         mc:Ignorable="d"
-        Title="ChM Lab1 Sergeev" Height="800" Width="1200">
+        Title="ChM Lab2 Sergeev" Height="800" Width="1200">
     <Grid>
         <Label x:Name="x0" Padding="0" Margin="942,65,46,675" Content="X0"/>
         <Label x:Name="xn" Padding="0" Margin="942,100,46,640" Content="Xn"/>
